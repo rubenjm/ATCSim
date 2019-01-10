@@ -48,19 +48,19 @@ AirController::doWork()
 
   // posiciones ruta de espera sector 1
 
-  Position pos_s1_1(5000,-10000,3000);
-  Position pos_s1_2(0,-10000,2740);
-  Position pos_s1_3(0,-5000,2480);
-  Position pos_s1_4(5000,-5000,2220);
-  Position pos_s1_5(5000,-10000,1960);
-  Position pos_s1_6(0,-10000,1700);
-  Position pos_s1_7(0,-5000,1440);
-  Position pos_s1_8(5000,-5000,1180);
-  Position pos_s1_9(5000,-10000,920);
-  Position pos_s1_10(0,-10000,660);
-  Position pos_s1_11(0,-5000,400);
-  Position pos_s1_12(5000,-5000,140);
-  Position pos_s1_res(7000,-7500,1570);
+  Position pos_s1_1(5000,-11000,3000);
+  Position pos_s1_2(0,-11000,2740);
+  Position pos_s1_3(0,-6000,2480);
+  Position pos_s1_4(5000,-6000,2220);
+  Position pos_s1_5(5000,-11000,1960);
+  Position pos_s1_6(0,-11000,1700);
+  Position pos_s1_7(00,-6000,1440);
+  Position pos_s1_8(5000,-6000,1180);
+  Position pos_s1_9(5000,-11000,920);
+  Position pos_s1_10(0,-11000,660);
+  Position pos_s1_11(0,-6000,400);
+  Position pos_s1_12(5000,-6000,140);
+  Position pos_s1_res(7500,-8500,1570);
 
   // rutas de espera sector 1
 
@@ -97,19 +97,19 @@ AirController::doWork()
 
   // posiciones ruta de espera sector 2
 
-  Position pos_s2_1(13000,-7000,3000);
-  Position pos_s2_2(8000,-7000,2740);
-  Position pos_s2_3(8000,-2000,2480);
-  Position pos_s2_4(13000,-2000,2220);
-  Position pos_s2_5(13000,-7000,1960);
-  Position pos_s2_6(8000,-7000,1700);
-  Position pos_s2_7(8000,-2000,1440);
-  Position pos_s2_8(13000,-2000,1180);
-  Position pos_s2_9(13000,-7000,920);
-  Position pos_s2_10(8000,-7000,660);
-  Position pos_s2_11(8000,-2000,400);
-  Position pos_s2_12(13000,-2000,140);
-  Position pos_s2_res(15000,-4500,1570);
+  Position pos_s2_1(14000,-7000,3000);
+  Position pos_s2_2(9000,-7000,2740);
+  Position pos_s2_3(9000,-2000,2480);
+  Position pos_s2_4(14000,-2000,2220);
+  Position pos_s2_5(14000,-7000,1960);
+  Position pos_s2_6(9000,-7000,1700);
+  Position pos_s2_7(9000,-2000,1440);
+  Position pos_s2_8(14000,-2000,1180);
+  Position pos_s2_9(14000,-7000,920);
+  Position pos_s2_10(9000,-7000,660);
+  Position pos_s2_11(9000,-2000,400);
+  Position pos_s2_12(14000,-2000,140);
+  Position pos_s2_res(16500,-4500,1570);
 
 
   // rutas de espera sector 2
@@ -146,19 +146,19 @@ AirController::doWork()
 
   // posiciones ruta de espera sector 3
 
-  Position pos_s3_1(13000,7000,3000);
-  Position pos_s3_2(8000,7000,2740);
-  Position pos_s3_3(8000,2000,2480);
-  Position pos_s3_4(13000,2000,2220);
-  Position pos_s3_5(13000,7000,1960);
-  Position pos_s3_6(8000,7000,1700);
-  Position pos_s3_7(8000,2000,1440);
-  Position pos_s3_8(13000,2000,1180);
-  Position pos_s3_9(13000,7000,920);
-  Position pos_s3_10(8000,7000,660);
-  Position pos_s3_11(8000,2000,400);
-  Position pos_s3_12(13000,2000,140);
-  Position pos_s3_res(15000,4500,1570);
+  Position pos_s3_1(14000,7000,3000);
+  Position pos_s3_2(9000,7000,2740);
+  Position pos_s3_3(9000,2000,2480);
+  Position pos_s3_4(14000,2000,2220);
+  Position pos_s3_5(14000,7000,1960);
+  Position pos_s3_6(9000,7000,1700);
+  Position pos_s3_7(9000,2000,1440);
+  Position pos_s3_8(14000,2000,1180);
+  Position pos_s3_9(14000,7000,920);
+  Position pos_s3_10(9000,7000,660);
+  Position pos_s3_11(9000,2000,400);
+  Position pos_s3_12(14000,2000,140);
+  Position pos_s3_res(16500,4500,1570);
 
 
   // rutas de espera sector 3
@@ -195,19 +195,19 @@ AirController::doWork()
 
   // posiciones ruta de espera sector 4
 
-  Position pos_s4_1(5000,10000,3000);
-  Position pos_s4_2(0,10000,2740);
-  Position pos_s4_3(0,5000,2480);
-  Position pos_s4_4(5000,5000,2220);
-  Position pos_s4_5(5000,10000,1960);
-  Position pos_s4_6(0,10000,1700);
-  Position pos_s4_7(0,5000,1440);
-  Position pos_s4_8(5000,5000,1180);
-  Position pos_s4_9(5000,10000,920);
-  Position pos_s4_10(0,10000,660);
-  Position pos_s4_11(0,5000,400);
-  Position pos_s4_12(5000,5000,140);
-  Position pos_s4_res(7000,7500,1570);
+  Position pos_s4_1(5000,11000,3000);
+  Position pos_s4_2(0,11000,2740);
+  Position pos_s4_3(0,6000,2480);
+  Position pos_s4_4(5000,6000,2220);
+  Position pos_s4_5(5000,11000,1960);
+  Position pos_s4_6(0,11000,1700);
+  Position pos_s4_7(0,6000,1440);
+  Position pos_s4_8(5000,6000,1180);
+  Position pos_s4_9(5000,11000,920);
+  Position pos_s4_10(0,11000,660);
+  Position pos_s4_11(0,6000,400);
+  Position pos_s4_12(5000,6000,140);
+  Position pos_s4_res(7500,8500,1570);
 
 
   // rutas de espera sector 4
@@ -341,6 +341,7 @@ AirController::doWork()
           (*it)->getRoute()->push_front(r1);
           (*it)->getRoute()->push_front(r0);
         }
+      }else if((*it)->getPosition().get_y() >= 0 && abs((*it)->getPosition().get_y()) >= (*it)->getPosition().get_x()){
         if(Airport::getInstance()->is_booked_landing()){
           (*it)->getRoute()->push_back(r_s4_1);
           (*it)->getRoute()->push_back(r_s4_2);
