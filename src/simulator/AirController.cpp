@@ -143,7 +143,7 @@ AirController::doWork()
 	r_s2_res.pos = pos_s2_res;
 	r_s2_res.speed = 100;
 
-		// posiciones ruta de espera sector 3
+	// posiciones ruta de espera sector 3
 
 	Position pos_s3_1(13000,7000,3000);
 	Position pos_s3_2(8000,7000,2740);
@@ -241,7 +241,7 @@ AirController::doWork()
 	r_s4_res.speed = 100;
 
 
-  //Posiciones aterrizaje
+  // Posiciones aterrizaje
 
   Position pos0(3500.0, 0.0, 100.0);
   Position pos1(1500.0, 0.0, 50.0);
@@ -249,7 +249,7 @@ AirController::doWork()
   Position pos3(-750.0, 0.0, 25.0);
 
 
-  //Rutas aterrizaje
+  // Rutas aterrizaje
 
   Route r0, r1, r2, r3;
 
@@ -262,13 +262,13 @@ AirController::doWork()
   r3.pos = pos3;
   r3.speed = 10.0;
 
+
   if(!Airport::getInstance()->is_booked_landing())
 	{
 		Flight* primero = *(flights.begin());
 
 		primero->getRoute()->clear();
 	}
-
 
 
   for(it = flights.begin(); it!=flights.end(); ++it)
