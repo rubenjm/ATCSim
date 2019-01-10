@@ -251,7 +251,7 @@ AirController::doWork()
 
   // Ruta de aterrizaje
 
-	Route r0, r1, r2, r3;
+  Route r0, r1, r2, r3;
 
   r0.pos = pos0;
   r0.speed = 150.0;
